@@ -98,3 +98,8 @@ tests/title
 tests/triangle-vulkan
 tests/windows
 
+#Build Res
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Bb]in-int/
